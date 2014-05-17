@@ -4,7 +4,7 @@
 <script>
     var view = {
         name : "Howard",
-        word : "Hello World"
+        word : "Hello World :)"
     };
 
     function loadtemp() {
